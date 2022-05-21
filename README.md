@@ -7,7 +7,7 @@
  - Job owner select 1 proposal to process
  - Developers do their work and submit
  - Owner check the result and make a payroll
- 
+   
  ## Planning:
  - Developers will have level base on their previous work and total money they received
  - Handle exception case like: workers not do their work, owner not do payroll
